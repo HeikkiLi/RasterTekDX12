@@ -1,0 +1,8 @@
+x64
+build
+*.db
+*.opendb
+*.ipch
+*.VC.db
+*.opensdf
+.vs/
